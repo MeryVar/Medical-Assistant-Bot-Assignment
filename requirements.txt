@@ -1,0 +1,44 @@
+# Core ML and NLP libraries
+torch>=1.13.0
+transformers>=4.25.0
+datasets>=2.8.0
+tokenizers>=0.13.0
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.24.0
+scikit-learn>=1.2.0
+
+# Text processing and NLP utilities
+nltk>=3.8
+spacy>=3.4.0
+sentence-transformers>=2.2.0
+
+# Vector storage and retrieval (for RAG if needed)
+faiss-cpu>=1.7.0
+chromadb>=0.3.0
+
+# Evaluation and metrics
+rouge-score>=0.1.0
+bert-score>=0.3.0
+evaluate>=0.4.0
+
+# Visualization and analysis
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.12.0
+
+# Development and testing
+pytest>=7.2.0
+black>=22.10.0
+flake8>=6.0.0
+jupyter>=1.0.0
+
+# Environment and config
+python-dotenv>=0.21.0
+pyyaml>=6.0
+tqdm>=4.64.0
+
+# Optional: Advanced features
+# langchain>=0.0.300 # uncomment if using advanced RAG
+# openai>=0.27.0 # uncomment if using OpenAI models

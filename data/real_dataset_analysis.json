@@ -1,0 +1,32 @@
+{
+"original_size": 16406,
+"processed_size": 999,
+"sample_size": 1000,
+"category_distribution": {
+"general": 243,
+"musculoskeletal": 115,
+"neurological": 109,
+"cardiovascular": 81,
+"infectious": 77,
+"pediatric": 64,
+"oncological": 62,
+"ophthalmological": 57,
+"dermatological": 53,
+"endocrine": 50,
+"gastrointestinal": 37,
+"respiratory": 34,
+"mental_health": 10,
+"geriatric": 7
+},
+"urgency_distribution": {
+"low": 520,
+"medium": 274,
+"high": 169,
+"emergency": 36
+},
+"text_stats": {
+"avg_question_length": 50.25925925925926,
+"avg_answer_length": 1239.853853853854,
+"max_answer_length": 19378
+}
+}
